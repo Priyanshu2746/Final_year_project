@@ -1,5 +1,5 @@
 
-#Project Title: Locate an Object Based on Point Cloud Image
+# Project Title: Locate an Object Based on Point Cloud Image
 
 ## Project Overview
 
